@@ -6,5 +6,5 @@
 
 ### 项目
 * [Wwise Tools](https://github.com/johnlsoer/WwiseTools.git)
-* [Godot Fmod Integration(forked from shinobi-lx/godot-fmod-integration)](https://github.com/johnlsoer/godot-fmod-integration/tree/release/api)
+* [Godot Fmod Integration(forked from shinobi-lx/godot-fmod-integration)](https://github.com/johnlsoer/godot-fmod-integration.git)
 
