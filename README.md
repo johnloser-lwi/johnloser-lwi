@@ -4,20 +4,5 @@
 # 个人项目
 * [Wwise Tools](https://github.com/johnlsoer/WwiseTools.git)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Wwise Tools](https://github.com/johnlsoer/WwiseTools.git)
+# 个人页面
+* [John Loser](https://losersworldindustries.com/john-yang)
