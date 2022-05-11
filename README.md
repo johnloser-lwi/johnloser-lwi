@@ -1,9 +1,3 @@
-# 个人简介
-![photo](https://losersworldindustries.com/wp-content/uploads/2021/07/WechatIMG121-1536x583.jpeg)
-
-**[杨惟勤 (AKA John Loser)](https://losersworldindustries.com/john-yang)，毕业于上海音乐学院音乐工程系。专业方向：音乐设计与制作、游戏声音设计，拥有Wwise 101、201、301认证。业余学习游戏制作，熟悉Unity3D、Unreal、Godot等游戏引擎，使用C#、python、gdscript等编程语言。**
-___
-
 ## 个人状态
 - 正在努力学习各方面知识，提高自身能力
 - 2021 目标：完成并发布[Wwise Tools](https://github.com/johnlsoer/WwiseTools.git)帮助广大音频工作者更加高效地完成任务
