@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is John Yang, used to work at XD Inc. as Technical Sound Designer/Audio Programmer from 2021-2023, currently studying Sound Design at Vancouver Film School.
+<br/>
+- 🔭 I’m currently working on [WwiseTools]([WwiseTools](https://github.com/johnloser-lwi/WwiseTools)), a WAAPI library in C#. Feel free to use and contribute through pull request!
 <!--
 **johnloser-lwi/johnloser-lwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
